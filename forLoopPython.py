@@ -1,3 +1,3 @@
 friends = ['John', 'Toy', 'David']
-for friend in friend:
+for friend in friends:
   print("Hi" + friend)
